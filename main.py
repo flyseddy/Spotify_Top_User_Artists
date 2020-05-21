@@ -47,3 +47,5 @@ def makeChart(artists):
 
 
 main()
+
+# >>python main.py {username}
