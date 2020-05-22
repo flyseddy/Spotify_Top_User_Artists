@@ -1,6 +1,6 @@
-# Top Listened to Artists Visualization Program
+# Top Listened to Artists/Tracks Visualization Program
 
-This a program I made using the Spotify Web API and the Spotipy Library to access the user's top listened to artists and their popularity and create a visualization of it using Plotly.
+This a program I made using the Spotify Web API and the Spotipy Library to access the user's top listened to artists or tracks and their popularity and create a visualization of it using Plotly.
 
 ## Installation
 
