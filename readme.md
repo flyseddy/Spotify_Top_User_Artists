@@ -2,6 +2,10 @@
 
 This a program I made using the Spotify Web API and the Spotipy Library to access the user's top listened to artists or tracks and their popularity and create a visualization of it using Plotly.
 
+![](demo.gif)
+
+![](demo2.gif)
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following packages for this project. Then follow the code inside the project.
